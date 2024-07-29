@@ -1,4 +1,4 @@
-- 👋 Hi, this is Pai, currently an undergraduate who is interested in Reinforcement Learning.
+- 👋 Hi, this is Pai, currently an undergraduate who is interested in Reinforcement Learning (especially under offline settings).
 - 📫 Reach me at pailiu.ai@gmail.com if you have any questions!
 
 <!---
