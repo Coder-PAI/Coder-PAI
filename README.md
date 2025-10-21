@@ -1,7 +1,5 @@
-- 👋 Hi, this is Pai, currently an undergraduate who is interested in Reinforcement Learning (especially under offline settings).
-- 📫 Reach me at pailiu.ai@gmail.com if you have any questions!
+# Hi there 👋, thank you for visiting Pai's GitHub homepage!
 
-<!---
-Coder-PAI/Coder-PAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a first-year Ph.D. student who focuses on the theory & application of reinforcement learning 💻✨.  
+
+📫 You can reach me at [pailiu.ai@gmail.com](mailto:pailiu.ai@gmail.com)  
