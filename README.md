@@ -2,4 +2,4 @@
 
 I'm a first-year Ph.D. student who focuses on the theory & application of reinforcement learning 💻✨.  
 
-📫 You can reach me at [pailiu.ai@gmail.com](mailto:pailiu.ai@gmail.com)  
+📫 You can reach me at [pailiu.ai@gmail.com](mailto:pailiu.ai@gmail.com). 
